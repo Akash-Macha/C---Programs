@@ -12,7 +12,7 @@ This repo contains the following **Sorting Algorithms** written in C
 #### [Bucket Sort](https://github.com/Akash-Macha/C-Programs/blob/master/Sorting%20Algorithms/7.%20Bucket%20Sort.c)
 #### [Shell Sort](https://github.com/Akash-Macha/C-Programs/blob/master/Sorting%20Algorithms/8.%20Shell%20Sort.c)
 #### [Count Sort](https://github.com/Akash-Macha/C-Programs/blob/master/Sorting%20Algorithms/9.%20Counting%20Sort.c)
-#### And a program with the following constraints
+#### And a [program](https://github.com/Akash-Macha/C-Programs/blob/master/Sorting%20Algorithms/!DS%20Lab%20-%20Sorting%20Techniques.cpp) with the following constraints
 1. Linear Search  Using function template
 2. Binary Search
 3. Insertion Sort	in Ascending order
